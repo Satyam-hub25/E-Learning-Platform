@@ -15,8 +15,8 @@ export default function About() {
         <div className="mt-20">
           <div className="space-y-12">
             <div>
-              <h3 className="text-2xl font-bold text-gray-900">Our Mission</h3>
-              <p className="mt-4 text-lg text-gray-500">
+              <h3 className="text-2xl font-bold text-gray-400">Our Mission</h3>
+              <p className="mt-4 text-lg text-gray-900">
                 To bridge the educational gap in rural areas by providing an accessible, engaging, and effective learning platform that works even with limited internet connectivity.
               </p>
             </div>
